@@ -16,3 +16,4 @@ print(isinstance(student1, Marks))
 print("\nCheck whether the said classes are subclass ")
 print(issubclass(Student, object))
 print(issubclass(Marks, object))
+
