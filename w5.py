@@ -1,0 +1,20 @@
+w = ("I am today is the inform ."
+     " where my python journey to start .my "
+     "python journey start in the Mumbai. when"
+     " we come to the Mumbai. I meet Mahesh sir."
+     " which lived the Mumbai. and he  informed "
+     " to the python and say that you start the"
+     " python. and there read start the python . "
+     "python is the computer programming language."
+     " and python is the most popular language. when"
+     " we reading the start the python. them we like "
+     "python. and python is a simply language and I"
+     " am start to read the python.  some I don't "
+     "know in python. about the python that  that"
+     " the Mahesh sir. them about know the python."
+     " and read to the start python. python is the "
+     "simple language. and similar the English"
+     " language. and Mahesh sir help me "
+     "to learn python")
+t = len(w)
+print(t)
